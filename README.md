@@ -16,7 +16,7 @@ microservices using Java and Spring Boot.
 - Spring Cloud
 - Spring Security
 - JPA / Hibernate
-- MySQL / PostgreSQL
+- MySQL
 - Docker (basic)
 
 ## 🎯 Purpose
